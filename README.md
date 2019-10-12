@@ -1,4 +1,9 @@
-# ✨Contribute101
+<h1 align="center">
+  ✨Contribute101
+</h1>
+<p align="center"> 
+<img src="https://travis-ci.org/RocktimSaikia/Contribute-101.svg?branch=master" />
+</p>
 
 > ✨ Contribute and get a step forward in completing the Hacktoberfest 2019.
 
@@ -14,6 +19,8 @@ Contribution to Open Source Projects is a great way to enhanching your coding sk
 
 So in this project you are going to create a bootstrap card of yourself by filling up some given things which we will talk later.
 But for now lets get straight into work.
+
+> #### contributors that want to work on additional feature on this project . Please follow this guideline :point_right: [Here](https://github.com/RocktimSaikia/Contribute-101/blob/master/contributors-guide.md)
 
 ### Prerequisite :
 

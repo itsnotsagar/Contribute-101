@@ -1,4 +1,12 @@
 module.exports.list = [
+{
+    name: "Sagar Yadav",
+    country: "India",
+    role: "To be filled",
+    tech_stack: ["C++", "Python", "Flutter"],
+    github_username: "itsnotsagar",
+    twitter_username: "itsnotsagar"
+  },
   {
     name: "Rocktim",
     country: "India",
